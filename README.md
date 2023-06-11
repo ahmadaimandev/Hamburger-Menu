@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💡 Hamburger Menu
+# 🍔 Hamburger Menu
 
 <img src="preview.png" alt="Project Image" width="700">
 
@@ -8,7 +8,7 @@
 
 ## Description
 
-The Quote Generator project combines HTML, CSS, and JavaScript to create a dynamic web app. It fetches random quotes from an API, delivering an engaging and visually appealing experience. JavaScript seamlessly retrieves and displays quotes, ensuring an interactive user experience.
+The "Hamburger Menu" project is a responsive website navigation system built with HTML, CSS, and Javascript. It utilizes a hamburger icon to enhance user experience and provide an intuitive menu for easy navigation.
 ## Usage
 
 To use this project, follow these steps:
