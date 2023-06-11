@@ -1,8 +1,8 @@
-body {
-    height: 100vh;
-    background-color: #e3f2fd;
+* {
+    margin: 0;
+    padding: 0;
 }
 
-.container {
-    height: 80px;
+#hamburger-icon1 {
+    
 }
