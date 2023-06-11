@@ -1,5 +1,6 @@
 :root {
     --background-color: #A8DAF9;
+    --background-container: #ff0000;
 }
 
 * {
@@ -25,10 +26,12 @@ body {
     display: flex;
     justify-content: center;
     cursor: pointer;
+    transition: all 0.4s linear;
+    overflow: hidden;
 }
 
 .container.active {
-
+    background-color: var(--background-container);
 }
 
 .container .menu {
@@ -65,16 +68,18 @@ body {
 .container.active .line.one {
      top: 50%;
      transform: translateY(-50%) rotate(45deg);
+     background-color: #fff;
 }
 
 .container.active .line.two {
     left: -100%;
     opacity: 0;
-    background-color: red;
+    background-color: var(--background-container);
 }
 
 .container.active .line.three {
     bottom: 50%;
     transform: translateY(50%) rotate(-45deg);
+    background-color: #fff;
 }
 
