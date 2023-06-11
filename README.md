@@ -8,7 +8,7 @@
 
 ## Description
 
-The "Hamburger Menu" project is a responsive website navigation system built with HTML, CSS, and Javascript. It utilizes a hamburger icon to enhance user experience and provide an intuitive menu for easy navigation.
+The hamburger menu project is a responsive website navigation system built with HTML, CSS, and Javascript. It utilizes a hamburger icon to enhance user experience and provide an intuitive menu for easy navigation.
 ## Usage
 
 To use this project, follow these steps:
